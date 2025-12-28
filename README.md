@@ -1,16 +1,31 @@
-## Hi there 👋
+<h2 align="center">Hi, I'm Kai 👋</h2>
 
-<!--
-**kai-zim/kai-zim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Dual B.Sc. student in <b>Data Science & Artificial Intelligence</b><br>
+Focused on applied machine learning and data-driven problem solving
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+I'm a dual Bachelor's student in Data Science & Artificial Intelligence with a strong
+interest in building **clear, reproducible machine learning solutions**.
+
+I focus on understanding data and assumptions before modeling and prefer
+**simple, well-structured approaches** over complex black-box solutions.
+Most of my learning happens through hands-on implementation and iteration.
+
+---
+
+### Core Competencies
+- **Programming:** Python, SQL  
+- **Data Analysis:** Pandas, NumPy  
+- **Machine Learning:** scikit-learn  
+- **Concepts:** data preprocessing, feature engineering, model evaluation  
+- **Foundations:** applied statistics & linear algebra  
+
+---
+
+### Contact
+- LinkedIn: https://www.linkedin.com/in/kai-arne-zimmermann/
+
