@@ -7,7 +7,6 @@ Focused on applied machine learning and data-driven problem solving
 
 ---
 
-### About Me
 I'm a dual Bachelor's student in Data Science & Artificial Intelligence with a strong
 interest in building **clear, reproducible machine learning solutions**.
 
@@ -17,7 +16,7 @@ Most of my learning happens through hands-on implementation and iteration.
 
 ---
 
-### Core Competencies
+### Tech & Tools
 - **Programming:** Python, SQL  
 - **Data Analysis:** Pandas, NumPy  
 - **Machine Learning:** scikit-learn  
