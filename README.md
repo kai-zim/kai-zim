@@ -1,30 +1,20 @@
-<h2 align="center">Hi, I'm Kai 👋</h2>
+## 👋 Hi, I'm Kai
 
-<p align="center">
-Dual B.Sc. student in <b>Data Science & Artificial Intelligence</b><br>
+Dual B.Sc. student in **Data Science & Artificial Intelligence**  
 Focused on applied machine learning and data-driven problem solving
-</p>
 
----
+### 🧠 About
 
 I'm a dual Bachelor's student in Data Science & Artificial Intelligence with a strong
 interest in building **clear, reproducible machine learning solutions**.
 
-I focus on understanding data and assumptions before modeling and prefer
-**simple, well-structured approaches** over complex black-box solutions.
-Most of my learning happens through hands-on implementation and iteration.
+### 🛠️ Tech Stack
 
----
+**Languages:** Python, R, SQL  
+**Libraries:** Pandas, Scikit-Learn, PyTorch / TensorFlow  
+**Tools:** Git, Docker, Jupyter  
 
-### Tech & Tools
-- **Programming:** Python, SQL  
-- **Data Analysis:** Pandas, NumPy  
-- **Machine Learning:** scikit-learn  
-- **Concepts:** data preprocessing, feature engineering, model evaluation  
-- **Foundations:** applied statistics & linear algebra  
+### 📫 Contact
 
----
-
-### Contact
-- LinkedIn: https://www.linkedin.com/in/kai-arne-zimmermann/
+LinkedIn: https://www.linkedin.com/in/kai-arne-zimmermann/
 
