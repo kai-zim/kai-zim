@@ -3,10 +3,6 @@
 Dual B.Sc. student in **Data Science & Artificial Intelligence**  
 Focused on applied machine learning and data-driven problem solving
 
-
-I'm a dual Bachelor's student in Data Science & Artificial Intelligence with a strong
-interest in building **clear, reproducible machine learning solutions**.
-
 ### 🛠️ Tech Stack
 
 **Languages:** Python, R, SQL  
